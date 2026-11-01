@@ -47,7 +47,7 @@ Hi! I'm **Ratul Hasan**, a Computer Science and Engineering student from Banglad
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
