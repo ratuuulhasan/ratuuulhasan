@@ -52,33 +52,7 @@ Hi! I'm **Ratul Hasan**, a Computer Science and Engineering student from Banglad
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com/?user=ratuuulhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ratuuulhasan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuuulhasan&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
