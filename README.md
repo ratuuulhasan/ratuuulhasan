@@ -1,16 +1,58 @@
-## Hi there 👋
 
-<!--
-**ratuuulhasan/ratuuulhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ratul Hasan
 
-Here are some ideas to get you started:
+### 🐍 Python & Django Developer | Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer learning to build modern, scalable web applications using Python and Django.
+
+- 🌱 Currently learning Python & Django
+- 🔭 Working on Web Traffic Analyzer
+- 🗄️ Learning PostgreSQL & Database Management
+- ⚙️ Exploring Docker, Redis & Celery
+- 🎯 Goal: Become a Professional Software Developer
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,postgres,git,github,docker,redis,vscode&perline=6" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+**Web Traffic Analyzer**
+
+A web-based traffic analysis project built with Python and Django.
+
+- Backend: Django
+- Database: PostgreSQL
+- Frontend: Bootstrap
+- Background Tasks: Celery & Redis
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratuuulhasan&theme=tokyo-night&hide_border=true)
+
+---
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/ratuuulhasan
+
+---
+
+⭐ Thanks for visiting my profile!
