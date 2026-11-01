@@ -56,20 +56,22 @@ I continuously work on improving my programming knowledge, writing clean and mai
 - Web Development
 - Software Engineering
 
-### <h2 align="center">📊 GitHub Statistics</h2>
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ratuuulhasan&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ratuuulhasan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+</p>
+
 
 
 ### 🌐 Connect With Me
