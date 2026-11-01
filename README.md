@@ -1,38 +1,60 @@
-
 # 👋 Hi, I'm Ratul Hasan
 
-### 🐍 Python & Django Developer | Web Developer
+### Python Developer | AI & Software Development
 
-I am a passionate developer learning to build modern, scalable web applications using Python and Django.
+🎓 Computer Science & Engineering Student at Uttara University
 
-- 🌱 Currently learning Python & Django
-- 🔭 Working on Web Traffic Analyzer
-- 🗄️ Learning PostgreSQL & Database Management
-- ⚙️ Exploring Docker, Redis & Celery
-- 🎯 Goal: Become a Professional Software Developer
+I am a Computer Science and Engineering student passionate about Python development, Artificial Intelligence, and Software Engineering.
 
----
+I enjoy building software applications, working with databases, developing REST APIs, and exploring AI-driven solutions.
 
-### 🛠️ Technologies & Tools
+I continuously work on improving my programming knowledge, writing clean and maintainable code, and strengthening my software development skills.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,postgres,git,github,docker,redis,vscode&perline=6" />
-</p>
+### 👨‍💻 About Me
 
----
+- 🎓 Studying Computer Science & Engineering at Uttara University
+- 🐍 Passionate about Python Development
+- 🤖 Interested in Artificial Intelligence
+- 🌐 Interested in REST API Development
+- 🗄️ Interested in Database Management
+- 💡 Focused on clean and maintainable code
+- 🚀 Eager to grow as a Software Engineer
+- 💼 Open to Work
 
-### 🚀 Featured Project
+### 🛠️ Technical Skills
 
-**Web Traffic Analyzer**
+**Programming Language**
+- Python
 
-A web-based traffic analysis project built with Python and Django.
+**Backend Development**
+- Django
+- REST APIs
 
-- Backend: Django
-- Database: PostgreSQL
-- Frontend: Bootstrap
-- Background Tasks: Celery & Redis
+**Database**
+- SQL
+- PostgreSQL
 
----
+**Frontend Development**
+- HTML5
+- CSS3
+- Bootstrap
+
+**Tools & Version Control**
+- Git
+- GitHub
+
+**Other Interests**
+- Artificial Intelligence (AI)
+- Software Engineering
+
+### 🎯 Technical Interests
+
+- Python Development
+- Artificial Intelligence
+- REST API Development
+- Database Management
+- Web Development
+- Software Engineering
 
 ### 📊 GitHub Statistics
 
@@ -41,18 +63,18 @@ A web-based traffic analysis project built with Python and Django.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
+### 🌐 Connect With Me
 
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratuuulhasan&theme=tokyo-night&hide_border=true)
-
----
-
-### 🤝 Connect With Me
-
-- GitHub: https://github.com/ratuuulhasan
+- **LinkedIn:** [Ratul Hasan](https://www.linkedin.com/in/ratuuulhasan/)
+- **GitHub:** [ratuuulhasan](https://github.com/ratuuulhasan)
+- **Email:** ratuuulhasan@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <i>Always learning, always improving, and building towards a better future in technology.</i>
+</p>
+
+<p align="center">
+  ⭐ Thank you for visiting my GitHub profile!
+</p>
