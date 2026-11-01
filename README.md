@@ -1,91 +1,120 @@
-# 👋 Hi, I'm Ratul Hasan
 
-### Python Developer | AI & Software Development
+<!-- ===================== HEADER ===================== -->
 
-🎓 Computer Science & Engineering Student at Uttara University
+<div align="center">
 
-I am a Computer Science and Engineering student passionate about Python development, Artificial Intelligence, and Software Engineering.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ratul%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-I enjoy building software applications, working with databases, developing REST APIs, and exploring AI-driven solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Backend+Developer;AI+%26+Software+Development;Always+Learning+New+Things" alt="Typing SVG" />
 
-I continuously work on improving my programming knowledge, writing clean and maintainable code, and strengthening my software development skills.
+</div>
 
-### 👨‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-- 🎓 Studying Computer Science & Engineering at Uttara University
+## 👋 About Me
+
+Hello! I'm **Ratul Hasan**, a Computer Science and Engineering student at Uttara University, Bangladesh.
+
 - 🐍 Passionate about Python Development
-- 🤖 Interested in Artificial Intelligence
-- 🌐 Interested in REST API Development
-- 🗄️ Interested in Database Management
+- 🌐 Learning Backend Development with Django
+- 🗄️ Interested in PostgreSQL and Database Management
+- 🤖 Exploring Artificial Intelligence
+- 🚀 Building real-world software projects
 - 💡 Focused on clean and maintainable code
-- 🚀 Eager to grow as a Software Engineer
-- 💼 Open to Work
-
-### 🛠️ Technical Skills
-
-**Programming Language**
-- Python
-
-**Backend Development**
-- Django
-- REST APIs
-
-**Database**
-- SQL
-- PostgreSQL
-
-**Frontend Development**
-- HTML5
-- CSS3
-- Bootstrap
-
-**Tools & Version Control**
-- Git
-- GitHub
-
-**Other Interests**
-- Artificial Intelligence (AI)
-- Software Engineering
-
-### 🎯 Technical Interests
-
-- Python Development
-- Artificial Intelligence
-- REST API Development
-- Database Management
-- Web Development
-- Software Engineering
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ratuuulhasan&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ratuuulhasan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</p>
-
-
-
-### 🌐 Connect With Me
-
-- **LinkedIn:** [Ratul Hasan](https://www.linkedin.com/in/ratuuulhasan/)
-- **GitHub:** [ratuuulhasan](https://github.com/ratuuulhasan)
-- **Email:** ratuuulhasan@gmail.com
 
 ---
 
-<p align="center">
-  <i>Always learning, always improving, and building towards a better future in technology.</i>
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p align="center">
-  ⭐ Thank you for visiting my GitHub profile!
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
 </p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,redis" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ratuuulhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ratuuulhasan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuuulhasan&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ratuuulhasan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ratuuulhasan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my GitHub profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+
+</div>
