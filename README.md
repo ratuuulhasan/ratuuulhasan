@@ -56,12 +56,21 @@ I continuously work on improving my programming knowledge, writing clean and mai
 - Web Development
 - Software Engineering
 
-### 📊 GitHub Statistics
+### <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
+
 
 ### 🌐 Connect With Me
 
