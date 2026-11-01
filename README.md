@@ -71,7 +71,7 @@ Hi! I'm **Ratul Hasan**, a Computer Science and Engineering student from Banglad
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
