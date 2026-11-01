@@ -1,6 +1,14 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:00BFFF&height=220&section=header&text=RATUL%20HASAN&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Python%20Developer%20%7C%20Django%20Developer&descAlignY=60&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Django+Backend+Developer;Building+the+Future+with+Code" />
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Ratul%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Backend+Developer;Software+Developer;Exploring+Artificial+Intelligence;Always+Learning+Something+New" alt="Typing Animation" />
