@@ -1,54 +1,49 @@
 
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ratul%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Ratul%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Backend+Developer;AI+%26+Software+Development;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Backend+Developer;Software+Developer;Exploring+Artificial+Intelligence;Always+Learning+Something+New" alt="Typing Animation" />
 
 </div>
 
-<!-- ===================== ABOUT ME ===================== -->
+## 👨‍💻 About Me
 
-## 👋 About Me
+Hi! I'm **Ratul Hasan**, a Computer Science and Engineering student from Bangladesh.
 
-Hello! I'm **Ratul Hasan**, a Computer Science and Engineering student at Uttara University, Bangladesh.
-
-- 🐍 Passionate about Python Development
-- 🌐 Learning Backend Development with Django
-- 🗄️ Interested in PostgreSQL and Database Management
-- 🤖 Exploring Artificial Intelligence
-- 🚀 Building real-world software projects
-- 💡 Focused on clean and maintainable code
+- 🐍 Passionate about Python programming.
+- 🌐 Learning Django Backend Development.
+- 🗄️ Working with PostgreSQL and databases.
+- 🤖 Exploring Artificial Intelligence.
+- 🚀 Interested in building real-world software.
+- 📚 Always learning and improving my skills.
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 My Tech Stack
 
-### Programming Languages
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 ### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=django" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=django" alt="Django"/>
 </p>
 
 ### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend"/>
 </p>
 
-### Tools & Technologies
+### Database & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,redis" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" alt="Database"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Tools"/>
 </p>
 
 ---
@@ -57,13 +52,13 @@ Hello! I'm **Ratul Hasan**, a Computer Science and Engineering student at Uttara
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratuuulhasan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuuulhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ratuuulhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=ratuuulhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -73,17 +68,17 @@ Hello! I'm **Ratul Hasan**, a Computer Science and Engineering student at Uttara
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ratuuulhasan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ratuuulhasan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuuulhasan&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuuulhasan&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -94,15 +89,15 @@ Hello! I'm **Ratul Hasan**, a Computer Science and Engineering student at Uttara
 <div align="center">
 
 <a href="https://github.com/ratuuulhasan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:ratuuulhasan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -111,10 +106,10 @@ Hello! I'm **Ratul Hasan**, a Computer Science and Engineering student at Uttara
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### 💡 Code | Learn | Build | Repeat
 
-⭐ Thanks for visiting my GitHub profile!
+**Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%"/>
 
 </div>
