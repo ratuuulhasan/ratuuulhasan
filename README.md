@@ -47,16 +47,6 @@ Hi! I'm **Ratul Hasan**, a Computer Science and Engineering student from Banglad
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=ratuuulhasan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
